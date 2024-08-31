@@ -1,0 +1,12 @@
+C:\Users\lmaidana\source\repos\ShowRowColumnCount\ShowRowColumnCount.Module\bin\Debug\net8.0\ShowRowColumnCount.Module.deps.json
+C:\Users\lmaidana\source\repos\ShowRowColumnCount\ShowRowColumnCount.Module\bin\Debug\net8.0\ShowRowColumnCount.Module.dll
+C:\Users\lmaidana\source\repos\ShowRowColumnCount\ShowRowColumnCount.Module\bin\Debug\net8.0\ShowRowColumnCount.Module.pdb
+C:\Users\lmaidana\source\repos\ShowRowColumnCount\ShowRowColumnCount.Module\obj\Debug\net8.0\ShowRowColumnCount.Module.csproj.AssemblyReference.cache
+C:\Users\lmaidana\source\repos\ShowRowColumnCount\ShowRowColumnCount.Module\obj\Debug\net8.0\ShowRowColumnCount.Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmaidana\source\repos\ShowRowColumnCount\ShowRowColumnCount.Module\obj\Debug\net8.0\ShowRowColumnCount.Module.AssemblyInfoInputs.cache
+C:\Users\lmaidana\source\repos\ShowRowColumnCount\ShowRowColumnCount.Module\obj\Debug\net8.0\ShowRowColumnCount.Module.AssemblyInfo.cs
+C:\Users\lmaidana\source\repos\ShowRowColumnCount\ShowRowColumnCount.Module\obj\Debug\net8.0\ShowRowColumnCount.Module.csproj.CoreCompileInputs.cache
+C:\Users\lmaidana\source\repos\ShowRowColumnCount\ShowRowColumnCount.Module\obj\Debug\net8.0\ShowRowColumnCount.Module.dll
+C:\Users\lmaidana\source\repos\ShowRowColumnCount\ShowRowColumnCount.Module\obj\Debug\net8.0\refint\ShowRowColumnCount.Module.dll
+C:\Users\lmaidana\source\repos\ShowRowColumnCount\ShowRowColumnCount.Module\obj\Debug\net8.0\ShowRowColumnCount.Module.pdb
+C:\Users\lmaidana\source\repos\ShowRowColumnCount\ShowRowColumnCount.Module\obj\Debug\net8.0\ref\ShowRowColumnCount.Module.dll
